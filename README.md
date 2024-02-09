@@ -2,7 +2,7 @@
 
 This is a OV5640 Camera Demonstration for TangMega 138KPro + [Micron DDR].
 
-### If you use default TangMega 138KPro modify the ddr ip using this: https://github.com/briansune/TangMega-138KPro-DDR3
+### If you use default TangMega 138KPro modify the ddr ip using this: [TangMega 138KPro DDR3](https://github.com/briansune/TangMega-138KPro-DDR3)
 
 ## If this project is constructive, welcome to donate a drink to PayPal.
 
