@@ -20,7 +20,7 @@ This is a OV5640 Camera Demonstration for TangMega 138KPro + [Micron DDR].
 
 | Resolution | Preview |
 |:---------------:|:----------------------------------------------------------------:|
-| WQVGA - 480x272 | <img src="https://github.com/briansune/TangMega-138KPro-OV5640-HDMI/assets/29487339/534e66f1-ad4b-42ec-8368-83ec7aaf13c7" style="height:45%; width:45%"> |
+| WQVGA - 480x272 | <img src="https://github.com/briansune/TangMega-138KPro-OV5640-Verilog/assets/29487339/2a5f104b-d162-4f38-a018-52dc70e9e277" style="height:45%; width:45%"> |
 
 # GOWIN EDA Resources
 
